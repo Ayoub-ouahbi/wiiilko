@@ -10,7 +10,7 @@
 	"APPLOVIN_BANNER": "d899e4056f8f7500",
 	"APPLOVIN_INTERSTITIAL": "99766356b785872c",
 
-	"whichAds": 1,
+	"whichAds": 2,
 	
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -24,6 +24,6 @@
 	"URL" : "https://www.wilko.com/",
 
 	"isAdsActivated1":true,
-	"isAdsActivated2":true
+	"isAdsActivated2":false
 
 }
